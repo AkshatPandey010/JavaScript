@@ -15,8 +15,21 @@ let convertedString = String(anyNumber)
 // ************Operations*************
 let value = 3
 let negValue = -value
-console.log(negValue);
-console.log("Akshat" + " Pandey");
+// console.log(negValue);
+// console.log("Akshat" + " Pandey");
+
+// console.log("2" > 1);
+// console.log(undefined == 0);
+// Javascript is a dynamically typed language 
+/* Data is categorise dinto two parts 
+1. Primitive(Call By Value) : String, Number
+Boolean, Null, Undefined, Symbol, BigInt
+2. Reference(Call by reference): Array, Object,
+Functions
+ 
+
+
+*/
 
 
 
